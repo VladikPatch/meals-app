@@ -1,16 +1,21 @@
-# meals_app
+# Meals App
 
-A new Flutter project.
+Meals App – Your Favorite Meals In One Place is a Flutter project developed while following the course  
+*Flutter & Dart – The Complete Guide [2025 Edition]* by Maximilian Schwarzmüller. 
+
+This app organizes meals by categories, allowing users to browse meals, view detailed information, add meals to favorites, and apply filters to customize their meal selections.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, make sure you have Flutter installed. Clone this repository and run the app on your preferred device or emulator.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Browse meals sorted by categories  
+- View detailed information about each meal  
+- Add meals to your favorites list  
+- Apply filters to tailor meal choices  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Credits
+
+This project was created following the comprehensive course *Flutter & Dart – The Complete Guide [2025 Edition]* by [Maximilian Schwarzmüller].
